@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/zaXixfGFbaa2ZtC8ngGZJYFfOhy6U3B/rc4D6V50O2Zroex3rwjqCJXuVOo9qRu18YYa9MGbW3FaMgrkCS+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\바탕 화면\\새 폴더\\김두영\\서버 프로그램\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
